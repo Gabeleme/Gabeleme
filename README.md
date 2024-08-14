@@ -2,6 +2,8 @@
 
 - 📚 Atualmente Cursando Análise e Desenvolvimento de Sistemas 
 - 🖥️ Estudando: Python 
+##
+![GabelemeGitHub stats](https://github-readme-stats.vercel.app/api?username=Gabeleme&show_icons=true&theme=dark)
 
 ##
 <div style="display: inline_block"><br>
