@@ -15,7 +15,7 @@ Oi! Eu sou Gabriela, uma estudante de Análise e Desenvolvimento de Sistemas de 
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ## 
-<img align= "right" width= "220" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "210" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
   
   🌐- **Contact Me**
   <div> 
@@ -28,8 +28,14 @@ Oi! Eu sou Gabriela, uma estudante de Análise e Desenvolvimento de Sistemas de 
 
 **GitHub Stats**
 
-<a href="https://github.com/leticiabaldin" title="Perfil do Let">
+<a href="https://github.com/Gabeleme" title="Perfil da Gabe">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabeleme&theme=dark&show_icons=true" />
 </a>
 
+
+<a href="https://github.com/Gabeleme" title="Perfil da Gabe">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabeleme&layout=compact&langs_count=16&theme=dark"/>
+</a>
+ 
+
+ 
