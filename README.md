@@ -1,6 +1,6 @@
-## Hello, I am Gabriela Leme 👋
+## Olá, eu sou Gabriela Leme👋
 
-Hi! I'm Gabriela, a 19-year-old Systems Analysis and Development student. I'm currently looking for my first internship as I'm eager to enter the job market as a developer. With a strong passion for programming, I've been dedicating myself to learning Python and am always seeking new challenges to enhance my skills.
+Oi! Eu sou Gabriela, uma estudante de Análise e Desenvolvimento de Sistemas de 19 anos. Estou atualmente procurando meu primeiro estágio, pois estou ansiosa para entrar no mercado de trabalho como desenvolvedora. Com uma forte paixão pela programação, tenho me dedicado a aprender Python e estou sempre buscando novos desafios para aprimorar minhas habilidades.
 
 ##
 🖥️- **Applications**
@@ -28,5 +28,7 @@ Hi! I'm Gabriela, a 19-year-old Systems Analysis and Development student. I'm cu
 **GitHub Stats**
 
 <a href="https://github.com/leticiabaldin" title="Perfil do Let">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabeleme&theme=dracula&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabeleme&theme=dark&show_icons=true" />
 </a>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabeleme&layout=compact&langs_count=16&theme=dark"/>
