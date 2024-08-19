@@ -1,6 +1,12 @@
 ## Olá, eu sou Gabriela Leme👋
 
-Oi! Eu sou Gabriela, uma estudante de Análise e Desenvolvimento de Sistemas de 19 anos. Estou atualmente procurando meu primeiro estágio, pois estou ansiosa para entrar no mercado de trabalho como desenvolvedora. Com uma forte paixão pela programação, tenho me dedicado a aprender Python e estou sempre buscando novos desafios para aprimorar minhas habilidades.
+Oi! Eu sou a Gabriela, tenho 19 anos e estou no 3º semestre de Análise e Desenvolvimento de Sistemas. Estou em busca do meu primeiro estágio na área de tecnologia, onde possa aplicar e expandir os conhecimentos que venho adquirindo ao longo dos meus estudos.
+
+Atualmente, estou me dedicando intensamente ao estudo de Python, mas também tenho conhecimento básico em outras linguagens e tecnologias, como Java, MySQL, HTML, CSS e JavaScript.
+
+Embora ainda não tenha experiência profissional, já participei de várias atividades acadêmicas que me ajudaram a desenvolver competências essenciais na área de TI, como a resolução de problemas, trabalho em equipe, e o desenvolvimento de projetos práticos.
+
+Alguns dos projetos que desenvolvi podem ser encontrados no meu LinkedIn ☺️
 
 
 ##
@@ -11,9 +17,11 @@ Oi! Eu sou Gabriela, uma estudante de Análise e Desenvolvimento de Sistemas de 
   <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Gabe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Gabe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Gabe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg">
+  <img align="center" alt="Gabe-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Gabe-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Gabe-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg">
+  <img align="center" alt="Gabe-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Gabe-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </div>
 
 <img align= "right" width= "210" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
