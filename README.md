@@ -44,9 +44,7 @@ Alguns dos projetos que desenvolvi podem ser encontrados no meu LinkedIn ☺️
 </a>
 
 
-<a href="https://github.com/Gabeleme" title="Perfil da Gabe">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabeleme&layout=compact&langs_count=16&theme=dark"/>
-</a>
+
  
 
  
